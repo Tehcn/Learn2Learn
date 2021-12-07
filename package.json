@@ -1,0 +1,15 @@
+{
+  "name": "learn2learn",
+  "version": "1.0.0",
+  "description": "Teaching a program to learn",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "author": "Noah Perry",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}
